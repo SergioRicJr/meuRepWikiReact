@@ -26,9 +26,9 @@ function App() {
     }
     alert('Repositório não encontrado')
 
-  }
 
     
+  }
 
   return (
     <Container>
